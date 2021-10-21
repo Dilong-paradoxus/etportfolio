@@ -2,8 +2,30 @@
     font-family: Helvetica;
 }
 
-.color-box {
-    margin: 100px;
-    padding: 100px;
+.white-box {
     background-color:#FFFFFF;
+    padding-top:50px; 
+    padding-bottom: 50px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 50px;
+}
+
+.pink-box {
+    background-color:#F7A8B8; 
+    padding-top:50px; 
+    padding-bottom: 50px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.blue-box {
+    background-color:#55CDFC;
+    padding-top:50px; 
+    padding-bottom: 50px;
+    margin: 0px;
 }
