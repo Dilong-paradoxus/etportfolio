@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+   <meta charset="utf-8">
+   <title>ethibault: GIS</title>
+   <link rel="stylesheet" href="css/styles.css">
+  </head>
+<html>
+   <head>
+      <title>GIS</title>
+   </head>
+   <body>
+      <!--flag header-->
+      <div class="blue-box">
+         <div class="pink-box">
+            <div class="white-box">
+               <!--content-->
+               <h1 class="text-style">GIS</h1>
+               <p class="text-style">My current work is in Geographic Information Systems. Most of my work is done in the ESRI ecosystem but I have worked on some personal projects in QGIS</p>
+               <p class="text-style">I use Python and Arcade regularly for automation, styling, and other things.</p>
+               <h3 class="text-style">Projects</h3>
+               <h3 class="text-style">Tree Height</h3>
+               <p class="text-style">QGIS - Ongoing</p>
+               <p class="text-style">Using freely available WA DNR LiDAR data I made tree height maps of my area.</p>
+               <h3 class="text-style">Earthquakes</h3>
+               <p class="text-style">ArcGIS Pro - 2021</p>
+               <p class="text-style">A map of 1 Million earthquakes under Washington state</p>
+               <h3 class="text-style">Visit Washington Geology!</h3>
+               <p class="text-style">ArcGIS Story Map - 2020</p>
+               <p class="text-style">A list of geology spots to visit in Washington state</p>
+               <h3 class="text-style">A Visual Seismic History</h3>
+               <p class="text-style">ArcGIS Story Map - 2020</p>
+               <p class="text-style">A survey of major Caribbean and Central American earthquakes.</p>
+               <h3 class="text-style">Intersection of Shipping and Marine Protected Areas</h3>
+               <p class="text-style">ArcGIS Web Map - 2020</p>
+               <p class="text-style">A map that overlays marine protected areas over shipping traffic.</p>
+               <h3 class="text-style">Caribbean Sea</h3>
+               <p class="text-style">ArcGIS Pro - 2021</p>
+               <p class="text-style">A map series with information about countries around the Caribbean</p>
+            </div>
+         </div>
+      </div>
+
+      <!--First text section-->
+      <div>
+         
+      </div>
+   </body>
+</html>
