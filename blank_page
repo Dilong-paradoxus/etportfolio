@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+   <meta charset="utf-8">
+   <title>tab title</title>
+   <link rel="stylesheet" href="css/styles.css">
+  </head>
+<html>
+   <head>
+      <title>some other title?</title>
+   </head>
+   <body>
+      <!--flag header-->
+      <div class="blue-box">
+         <div class="pink-box">
+            <div class="white-box">
+               <!--content-->
+               <h1 class="text-style">Page title</h1>
+               <p class="text-style">Subtitle</p>
+               <h3 class="text-style">Heading 3</h1>
+               <p class="text-style">content text</p>
+            </div>
+         </div>
+      </div>
+
+      <!--First text section-->
+      <div>
+         
+      </div>
+   </body>
+</html>
